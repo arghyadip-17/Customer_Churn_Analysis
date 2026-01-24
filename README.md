@@ -16,11 +16,11 @@ Customer churn is a critical problem for subscription-based businesses. This pro
 8. Business Insights & Recommendations
 ## 📊 Dataset Description
 The dataset contains customer-related information such as:
-I. Demographics
-II. Account information
-III. Service usage
-IV. Billing details
-V. Churn status (target variable)
+- Demographics
+- Account information
+- Service usage
+- Billing details
+- Churn status (target variable)
 ## 🧠 Models Used
 - Logistic Regression 
   Performance evaluated using accuracy, confusion matrix, and classification report
