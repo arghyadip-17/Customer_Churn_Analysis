@@ -54,4 +54,4 @@ Models were evaluated using:
 - Higher monthly charges increase the likelihood of customer churn.
 - Customers with longer tenure are more loyal and less likely to churn.
 - The machine learning model demonstrated good predictive performance in classifying churned and non-churned customers.
-- This project provides a strong foundation for further improvements and real-world deployment.
+- This project provides a strong foundation for further improvements and real-world deployment for Data Science.
